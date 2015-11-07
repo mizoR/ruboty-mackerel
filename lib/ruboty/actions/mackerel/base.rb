@@ -1,3 +1,5 @@
+require "terminal-table"
+
 module Ruboty
   module Actions
     module Mackerel
