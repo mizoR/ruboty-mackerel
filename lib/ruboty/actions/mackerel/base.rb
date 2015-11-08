@@ -5,7 +5,7 @@ module Ruboty
     module Mackerel
       class Base < ::Ruboty::Actions::Base
         def call
-          message.reply(body)
+          message.reply(body, code: true)
         end
 
         private
