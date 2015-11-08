@@ -1,4 +1,5 @@
 require "ruboty/actions/mackerel/base"
+require "ruboty/actions/mackerel/help"
 require "ruboty/actions/mackerel/list_services"
 require "ruboty/actions/mackerel/list_service_roles"
 require "ruboty/actions/mackerel/list_service_role_hosts"
